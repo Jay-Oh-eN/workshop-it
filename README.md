@@ -1,10 +1,10 @@
 # Workshop-it
 
-This repository contains the files and data from my workshop at [name of event here] as well as resources and next steps. Videos of the workshop can be found here: <link to Youtube playlist>
+This repository contains the files and data from my workshop at [name of event here] as well as resources and next steps. Videos of the workshop can be found here: [link to Youtube playlist]
 
 I would love your feedback on the materials in the Github [issues](https://github.com/Jay-Oh-eN/workshop-it/issues).
 
-And please do not hesitate to reach out to me directly via email at <my name>@gmail.com or over twitter @<my handle>
+And please do not hesitate to reach out to me directly via email at [my name]@gmail.com or over twitter @[my handle]
 
 ![placeholder](images/placeholder.png)
 
