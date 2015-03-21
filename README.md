@@ -6,7 +6,7 @@ I would love your feedback on the materials in the Github [issues](https://githu
 
 And please do not hesitate to reach out to me directly via email at <my name>@gmail.com or over twitter @<my handle>
 
-![placeholder](placeholder.png)
+![images/placeholder](placeholder.png)
 
 > Throughout this workshop, you will ...
 
