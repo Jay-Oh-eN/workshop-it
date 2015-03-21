@@ -30,7 +30,7 @@ And please do not hesitate to reach out to me directly via email at [my name]@gm
     LICENSE              Details of rights of use and distribution
     presentation.pdf     lecture slides from presentation
     readme.md            this file!
-    [exercise.html        file containing the exercise]
+    [exercise.html       file containing the exercise]
 
 ## The Data
 
